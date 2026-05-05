@@ -1,7 +1,7 @@
 Integrantes:
 
--Jhon Chilo Gonzales
+-Jhon Chilo Gonzales -> 202310364
 
--Ariana Mercado Barbieri
+-Ariana Mercado Barbieri -> 202310179
 
--Sergio Delgado Amado
+-Sergio Delgado Amado -> 202310227
