@@ -1,1 +1,5 @@
-# multilist_fractional_cascading
+Integrantes:
+
+Jhon Chilo Gonzales
+Ariana Mercado Barbieri
+Sergio Delgado Amado
