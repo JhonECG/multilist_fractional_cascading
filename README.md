@@ -1,7 +1,7 @@
 Integrantes:
 
-Jhon Chilo Gonzales
+-Jhon Chilo Gonzales
 
-Ariana Mercado Barbieri
+-Ariana Mercado Barbieri
 
-Sergio Delgado Amado
+-Sergio Delgado Amado
